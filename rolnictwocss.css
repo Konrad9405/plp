@@ -1,0 +1,19 @@
+header {
+    background-color: black;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    
+}
+body {
+    margin: 0;
+}
+.picture1 {
+    margin-top: 15px;
+    margin-left: 100px;
+}
+.color2 {
+    color: black;
+    
+}
+
